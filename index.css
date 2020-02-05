@@ -1,4 +1,19 @@
+body{
+    background-color: blue;
+}
 img{
-    width: 150px;
+    width: 200px;
     height: 200px;
+}
+main{
+    background: brown;
+    color: chartreuse;
+}
+h1{
+    background-color: cyan;
+    
+}
+li{
+
+    color: darkmagenta;
 }
